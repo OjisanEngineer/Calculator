@@ -20,6 +20,9 @@ L.pack()
 L = Label(GUI,text='somchai_dev')
 L.pack()
 
+L = Label(GUI,text='MeowZaa')
+L.pack()
+
 v1 = StringVar()
 E1 = ttk.Entry(GUI,textvariable=v1)
 E1.pack()
