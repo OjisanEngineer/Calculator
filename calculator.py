@@ -8,7 +8,7 @@ GUI.geometry('500x700')
 L = Label(GUI,text='Loong Wissawakorn')
 L.pack()
 
-L = Label(GUI,text='your username')
+L = Label(GUI,text='Uncle Engineer')
 L.pack()
 
 L = Label(GUI,text='your username')
