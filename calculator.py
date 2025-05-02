@@ -11,7 +11,7 @@ L.pack()
 L = Label(GUI,text='Uncle Engineer')
 L.pack()
 
-L = Label(GUI,text='your username')
+L = Label(GUI,text='tardev35')
 L.pack()
 
 L = Label(GUI,text='somchai_dev')
