@@ -14,6 +14,9 @@ L.pack()
 L = Label(GUI,text='tardev35')
 L.pack()
 
+L = Label(GUI,text='Cannonskr')
+L.pack()
+
 L = Label(GUI,text='somchai_dev')
 L.pack()
 
